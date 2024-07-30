@@ -9,7 +9,7 @@
 - [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-- - [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 
 <!---
 Gauravprakashs/Gauravprakashs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
