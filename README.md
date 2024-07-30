@@ -5,8 +5,9 @@
 - 📫 How to reach me mail: prakash.gaurav.2232@gmail.com
 
 -TeckStack:
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=mysql,mysqlite,mongodb)](https://skillicons.dev)
 
 <!---
 Gauravprakashs/Gauravprakashs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
