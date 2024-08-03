@@ -25,7 +25,6 @@
 - 🌱 I’m currently learning in LPU
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail: prakash.gaurav.2232@gmail.com
--  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/gauravprakashs/))
 - [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)  : https://www.linkedin.com/in/gauravprakashs/
 
 ---
@@ -39,6 +38,9 @@
 
 </div>
 
+<div>
+  ![Snake animation](https://github.com/thepiyushmalhotra/Gauravprakashs/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
