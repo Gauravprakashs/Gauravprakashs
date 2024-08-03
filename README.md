@@ -22,10 +22,10 @@
 - 📫 How to reach me mail: prakash.gaurav.2232@gmail.com
 - [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)  : https://www.linkedin.com/in/gauravprakashs/
 ---
-TeckStack:
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)
- [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+TeckStack:<br>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php)](https://skillicons.dev)<br>
+ [![My Skills](https://skillicons.dev/icons?i=java,python,cpp)](https://skillicons.dev)<br>
+ [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)<br>
  [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
 
 </div>
